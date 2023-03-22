@@ -1,2 +1,2 @@
-# ReactCanvasEditor
+# CanvasEditor
 Created with CodeSandbox
